@@ -1,8 +1,8 @@
 [![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9818F7&width=435&lines=Welcome+to+my+profile!;I'm+an+AI+enthusiast!)](https://git.io/typing-svg)
 
-## 🚀 About Me
+## 🧙‍♂️ About Me
 
-- ✨ I’m currently studying **Artificial Intelligence** at the **University of Vigo**.
+- 🎓 I’m currently studying **Artificial Intelligence** at the **University of Vigo**.
 - ✨**Journey Before Destination**
 
 ## 📊 GitHub Stats
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,sklearn" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,sklearn,java" alt="Tech Stack" />
   </a>
 </p>
 

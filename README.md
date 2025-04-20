@@ -44,7 +44,7 @@
 ### **Proyecto 1: Aprendizaje Bio-Inspirado**  
 - **Descripción**:  
 Este proyecto se centró en explorar el aprendizaje bio-inspirado utilizando algoritmos como ACO (Ant Colony Optimization), BCO (Bee Colony Optimization), y PSO (Particle Swarm Optimization) entre otros.  
-- **Tecnologías**: Python, ACO, BCO, PSO, Redes Neuronales  
+- **Tecnologías**: Python, ACO, BCO, PSO, Redes Neuronales, CNN´s
 - **Colaboradores**: [Sara Porto](https://github.com/saraportto)  
 - **Duración**: 4 meses  
 - **Enlace**: [Repositorio en GitHub](https://github.com/AdanAgr/APAU_BIO)

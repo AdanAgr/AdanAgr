@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/AdanAgr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanAgr&layout=compact&theme=transparent&title_color=0000FF&text_color=000080" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanAgr&layout=compact&theme=transparent&title_color=0000FF&text_color=000020" alt="Top Langs"/>
   </a>
 </p>
 

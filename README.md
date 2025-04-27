@@ -58,3 +58,14 @@ En este proyecto, implementamos un sistema de recomendación de películas usand
 - **Colaboradores**: [Tomás Rial](https://github.com/tomasrial46)  
 - **Duración**: 4 meses  
 - **Enlace**: [Repositorio en GitHub](https://github.com/AdanAgr/RAIN)
+
+---
+
+### **Proyecto 3: Resolución del Cubo de Rubik mediante Algoritmos de Búsqueda**
+- **Descripción**:
+En este proyecto abordamos la resolución de un Cubo de Rubik (3x3) desordenado hasta alcanzar su estado completamente resuelto. Para lograrlo, implementamos diversos algoritmos de búsqueda y funciones heurísticas, evaluando su eficacia y eficiencia en este problema de alta complejidad. El objetivo fue identificar los métodos más adecuados para encontrar la secuencia óptima de movimientos que lleve a la solución.
+
+- **Tecnologías**: Python, Algoritmos de Búsqueda (Búsqueda en Anchura, Búsqueda en Profundidad, A*, IDA*, entre otros), Heurísticas
+- **Colaboradores**: [Santiago Palomino](https://github.com/santipvz)  
+- **Duración**: 1 mes
+- **Enlace**: [Repositorio en GitHub](https://github.com/santipvz/cubo-rubik)

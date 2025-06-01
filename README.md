@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/AdanAgr">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdanAgr&show_icons=true&theme=transparent&title_color=B5D9F8&text_color=6289AC" alt="Adán's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AdanAgr&show_icons=true&theme=transparent&title_color=B5D9F8&text_color=5053B8" alt="Adán's GitHub stats"/>
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/AdanAgr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanAgr&layout=compact&theme=transparent&title_color=B5D9F8&text_color=6289AC" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanAgr&layout=compact&theme=transparent&title_color=B5D9F8&text_color=5053B8" alt="Top Langs"/>
   </a>
 </p>
 

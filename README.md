@@ -1,4 +1,4 @@
-[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8DCAF9&width=435&lines=Journey+Before+Destination)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F2FE&width=435&lines=Journey+Before+Destination)](https://git.io/typing-svg)
 
 ## 🧙‍♂️ About Me
 
@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/AdanAgr">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdanAgr&show_icons=true&theme=transparent&title_color=8DCAF9&text_color=F0F2FE" alt="Adán's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AdanAgr&show_icons=true&theme=transparent&title_color=F0F2FE&text_color=3E444C" alt="Adán's GitHub stats"/>
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/AdanAgr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanAgr&layout=compact&theme=transparent&title_color=8DCAF9&text_color=F0F2FE" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanAgr&layout=compact&theme=transparent&title_color=F0F2FE&text_color=3E444C" alt="Top Langs"/>
   </a>
 </p>
 

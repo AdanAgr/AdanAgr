@@ -31,7 +31,7 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ad%C3%A1n-gonz%C3%A1lez-rodr%C3%ADguez-a38786263/">
+  <a href="www.linkedin.com/in/adanagr">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:adan.rozaguez@gmail.com">

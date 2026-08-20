@@ -1,3 +1,6 @@
+<p align="right">
+  🇬🇧 <b>English</b> | <a href="README_ES.md">🇪🇸 Español</a>
+</p>
 [![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8DCAF9&width=435&lines=Journey+Before+Destination)](https://git.io/typing-svg)
 
 <p align="center">

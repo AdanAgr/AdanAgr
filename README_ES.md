@@ -1,8 +1,8 @@
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> | 🇪🇸 <b>Español</b>
+  <a href="README.md">EN English</a> | ES <b>Español</b>
 </p>
 
-[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=8DCAF9\&width=435\&lines=Journey+Before+Destination)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=8DCAF9\&width=435\&lines=Viaje+Antes+Que+Destino)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="assets/banner_es.png" alt="Adán González Rodríguez - Ingeniero en Inteligencia Artificial" width="100%" />

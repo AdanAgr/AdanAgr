@@ -2,8 +2,8 @@
 
 ## 🧙‍♂️ About Me
 
-- 🎓 I’m currently studying **Artificial Intelligence** at the **University of Vigo**.
-
+- 🎓 Graduated in Artificial Intelligence from the University of Vigo (UVigo).
+- 📚 Currently studying a Master's Degree in Big Data at the University of Santiago de Compostela (USC).
 ---
 
 ## 📊 GitHub Stats

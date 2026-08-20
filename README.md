@@ -1,5 +1,9 @@
 [![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8DCAF9&width=435&lines=Journey+Before+Destination)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="assets/banner_en.png" alt="Adán González Rodríguez - Artificial Intelligence Engineer" width="100%" />
+</p>
+
 ## 🧙‍♂️ About Me
 
 - 🎓 Graduated in Artificial Intelligence from the University of Vigo (UVigo).

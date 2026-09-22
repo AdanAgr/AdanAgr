@@ -11,7 +11,7 @@
 ## 🧙‍♂️ Sobre mí
 
 * 🎓 Graduado en **Inteligencia Artificial** por la **Universidad de Vigo (UVigo)**.
-* 📚 Estudiante del **Máster en Big Data** de la **Universidad de Santiago de Compostela (USC)**.
+* 📚 Estudiante del **Máster en Ingeniería Informática** de la **Universidad de Vigo (UVigo)**.
 
 ---
 

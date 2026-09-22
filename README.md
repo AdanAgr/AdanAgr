@@ -11,7 +11,7 @@
 ## 🧙‍♂️ About Me
 
 * 🎓 Graduated in **Artificial Intelligence** from the **University of Vigo (UVigo)**.
-* 📚 Currently studying for a **Master's Degree in Big Data** at the **University of Santiago de Compostela (USC)**.
+* 📚 Currently studying for a **Master's Degree in Computer Engineering** at the **University of (UVigo)**.
 
 ---
 
